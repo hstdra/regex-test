@@ -1,0 +1,10 @@
+Convert CSV file to SQL file like this:
+
+INSERT INTO Users (id, name, age, email, phone) VALUES
+('c0a42364-6d68-4177-886e-0e00e75d6ac2', 'Pansy Langosh', 49, 'Faye.Hermiston@yahoo.com', '993-046-8804 x4494'),
+('b7cfd6c1-4d4d-4ada-a9c8-19bdf7f984c4', 'Lexus Schmitt', 27, 'Leola80@yahoo.com', '(003) 564-0263 x7879'),
+('c2e37d33-3235-4e1e-b6b7-6a8dcb45eda2', 'Laury McClure', 46, 'Enrico_Connelly@hotmail.com', '658.828.6561 x495'),
+('780966a0-bd36-4191-a416-25aa56197927', 'Pascale Dicki', 64, 'Laverne.Kunde@yahoo.com', '682.391.9387 x7988'),
+('7b40049c-5efb-474d-866e-3d143b03d61e', 'Carolyne Hayes', 64, 'Alfredo_Steuber88@hotmail.com', '401.372.9380 x951'),
+('1d56d4da-9198-457b-82c4-abf087ab4b16', 'Ms. Thea Kuhn', 61, 'Velva_Runolfsdottir@gmail.com', '653-406-4043'),
+('1c7b9da4-0128-48f0-9e88-22d8fddb4f37', 'Mitchell Bashirian', 27, 'Selmer.Wuckert76@gmail.com', '946-028-9738');
